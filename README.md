@@ -1,2 +1,2 @@
-# Javascript-API-gps-location-errors
+# Javascript-API-geolocation-errors
 Javascript API location with error handling using Switch Statement.
